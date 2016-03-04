@@ -20,6 +20,8 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	You can see which commits are related to which branch and are independent of other changes.  So, if a branch was created before a crucial change or bug fix you made on the master, you'll know that you need to fix it on the new branch.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
