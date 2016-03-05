@@ -10,7 +10,12 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    A fork is a copy of a GitHub repository on GitHub with links and references to the forked repository.
+    A clone is a copy of a repository made locally from either a GitHub repository or a local repository in another location.
+    A branch is an alternate version of a file or series of files stored on the same repository and accessed by "checking out" that branch.
+    You would use a fork when you want to be able to modify and edit a repository, but you do not have editing rights on the original repository.  This would be done if the repository needed to be stored on GitHub (and you wanted to give credit to the original creator).
+    You would clone a repository if you needed to make a copy of a repository (such as making a new project that references some of the same structure of a program but will be edited into a completely unrelated project), or if you found a repsository on GitHub that you wanted to be able to edit locally.  This would be used if the repository needed to be stored locally.
+    You would use a branch if you were creating an alternate version of a project or experimenting on the project in such a way that you didn't want it to interfere with the main project until it was complete or tested.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
