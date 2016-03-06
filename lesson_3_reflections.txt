@@ -20,7 +20,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    The benefit would be that if you are collaborating, you and your other collaborator(s) would be starting from the same point of reference if you or they have to work on the project without an internet connection.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
