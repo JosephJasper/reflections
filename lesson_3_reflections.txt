@@ -1,13 +1,13 @@
-When would you want to create a remote repository rather than keeping all your work local?
+1. When would you want to create a remote repository rather than keeping all your work local?
 
   When I would want to allow other users to access and/or edit a file.  Also, if I am working on a project from multiple computers.
 
-Why might you want to always pull changes manually rather than having Git
+2. Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
     I wouldn't necessarily want to pull in every commit from GitHub if others were actively working on the project.
 
-Describe the differences between forks, clones, and branches.  When would you
+3. Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
     A fork is a copy of a GitHub repository on GitHub with links and references to the forked repository.
@@ -17,17 +17,17 @@ use one instead of another?
     You would clone a repository if you needed to make a copy of a repository (such as making a new project that references some of the same structure of a program but will be edited into a completely unrelated project), or if you found a repsository on GitHub that you wanted to be able to edit locally.  This would be used if the repository needed to be stored locally.
     You would use a branch if you were creating an alternate version of a project or experimenting on the project in such a way that you didn't want it to interfere with the main project until it was complete or tested.
 
-What is the benefit of having a copy of the last known state of the remote
+4. What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
     The benefit would be that if you are collaborating, you and your other collaborator(s) would be starting from the same point of reference if you or they have to work on the project without an internet connection.
 
-How would you collaborate without using Git or GitHub?  What would be easier,
+5. How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would probably use a file on google drive.  This would be easier to save changes without the infrastructure of Git commits/pushes/pulls.  However, making alternate versions of files would create clutter and being able to back out specific changes or merge documents if changes were made on multiple versions of a document would be a manual process and in many cases time overly consumptive.
 
-When would you want to make changes in a separate branch rather than directly in
+6. When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     Fill in your answer here
