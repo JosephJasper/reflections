@@ -30,4 +30,6 @@ and what would be harder?
 6. When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You could make changes in a separate branch if you were being cautious because other users are working on the same repository, or you could do it as a means of getting buy in from other collaborators for changes you want to make to the repository.
+    Changing the branch directly really makes it easier to roll out a change especially when trying to expedite a change like a bug fix.
+    Using branches are really beneficial for experimentation and tracking the changes in the experiment as it rolls into the main repository.  However, branches are also beneficial for collaboration and dealing with situations where you don't want everyone in a project making changes to a project without supervision.
